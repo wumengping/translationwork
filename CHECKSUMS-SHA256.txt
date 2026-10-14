@@ -1,0 +1,5 @@
+﻿43193164ae3fd2a149df96075457d5d7faabc929c041b9144c02151fce1f9f3b  美国45CFR第92部分与CLAS国家标准_中文译本.md
+aae2cf33e26e2e1753c29d623a88c5d332c029abbe07cdd800aaebd19e3e2a48  美国45CFR第92部分与CLAS国家标准_中文译本.pdf
+
+# 生成时间: 2026-10-14 16:07:28 +08:00
+# 校验方式: PowerShell -> Get-FileHash <文件名> -Algorithm SHA256
